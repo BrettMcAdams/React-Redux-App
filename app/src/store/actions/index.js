@@ -1,0 +1,1 @@
+export { FETCH_CHARACTER, FETCH_CHARACTER_SUCCESS, FETCH_CHARACTER_ERROR, fetchCharacter } from './breakingFactsActions'
